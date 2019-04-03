@@ -1,0 +1,21 @@
+{
+    "name": "is-it-love-ryan-hack/is-it-love-ryan-hack-mod-apk-get-unlimited-Energy",
+    "description": "Is-it Love Ryan Hack Mod APK Get Unlimited Energy Cheats Generator IOS & Android",
+
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ClICK HERE to HACK Is-it Love Ryan",
+            "homepage": "http://is-it-love-ryan.astuces.cf/en.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+   
+    "minimum-stability": "dev"
+}
